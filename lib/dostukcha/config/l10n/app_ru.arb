@@ -1,0 +1,185 @@
+{
+  "calculator_page": "===========================CALCULATOR PAGE===========================",
+  "language": "русский",
+  "get_loan": "Получить",
+  "daily_percent": "Eжедневный процент",
+  "term_of_loan": "Срок микрокредита",
+  "sum_loan": "Сумма микрокредита",
+  "sum": "Сумма",
+  "days": "дней",
+
+
+  "contact_page": "===========================CONTACT PAGE===========================",
+  "confirm_contacts": "Подтверждение контактов",
+  "contact_text1": "Уважаемый клиент, ",
+  "contact_text2": "для повышения вероятности одобрения кредита ",
+  "contact_text3": "вам необходимо указать контакты, которые могут подтвердить вашу личность",
+  "contact_text4": "Повышает вероятность одобрения на 80%",
+  "contact_text5": "Пожалуйста, укажите фамилию, имя и телефон вашего родственника",
+  "who_do_have_to": "Кем вам приходится",
+  "choose_by_whom": "Выберите кем приходится",
+  "tel_number": "Номер телефона",
+  "enter_full_number": "Введите номер полностью",
+  "name_of_contact": "Имя и фамилия контакта",
+  "enter_name": "Введите имя и фамилию",
+  "duplicated_numbers": "Ошибка: Найдены одинаковые телефонные номера!",
+  "cannot_use_ur_number": "Нельзя использовать свой номер!",
+  "cannot_use_this_number": "Пожалуйста введите корректный номер!",
+  "enter_valid_phone_code": "Введите корректный код номера!",
+  "add_contact":"+ Добавить контакт",
+
+
+  "qr_code_page": "===========================QR CODE PAGE===========================",
+  "show_qr_code": "Предъявите ваш QR код продавцу",
+  "sorry_qr_not_generated": "Извините, QR код не сгенерирован",
+  "use_sum_at_partner": "Вы можете использовать данную сумму у партнера ",
+  "address_of_partners": "Адреса партнеров",
+  "qr_code_text": "Остаток от одобренной суммы кредита будет зачислен на баланс телефона, который вы указали при регистрации в мобильном приложении.",
+
+
+  "liveness_page": "===========================LIVENESS PAGE===========================",
+  "liveness_error": "Ошибка при идентификации. Повторить еще раз",
+
+
+  "loan_agreement_page": "===========================LOAN AGREEMENT SIGN PAGE===========================",
+  "loan_agreement": "Кредитный договор",
+  "agreement_about_loan": "Кредитный договор",
+  "sign_loan_agreement": "Подпишите кредитный договор",
+
+
+  "navigation_page": "===========================MAIN NAVIGATION PAGE===========================",
+  "calculator": "Калькулятор",
+  "documents": "Документы",
+  "support": "Поддержка",
+
+
+  "onboard_page": "===========================ON BOARDING PAGE===========================",
+  "onboard_welcome": "Добро пожаловать",
+  "onboard_text": "С нашим приложением Dostukcha получить микрокредит для покупки товара или услуги, стало легко и просто! ",
+  "onboard_identity": "1.Идентификация",
+  "onboard_text_1": "Пройдите идентификацию, сделав снимок своего ID документа и пройдя liveness идентификацию",
+  "onboard_check_data": "2.Проверка данных",
+  "onboard_text_2": "Система проверит правильность ваших данных и определит ваш кредитный рейтинг",
+  "onboard_select_partners": "3.Выбор партнеров",
+  "onboard_text_3": "Вам будет предоставлены все партнеры где вы сможете использовать свой микрокредит",
+  "onboard_approval": "4.Одобрение",
+  "onboard_text_4": "После проверки ваших данных система покажет доступную сумму микрокредита",
+  "onboard_product_or_service": "5.Получение продукта или услуги",
+  "onboard_text_5": "После одобрения суммы микрокредита, у вас будет сгенерирован QR код, который вы сможете использовать у наших партнеров. Получив товар или услугу",
+  "onboard_skip": "Пропустить",
+
+
+  "partners_page": "===========================PARTNERS PAGE===========================",
+  "partners_description": "Сеть АЗС «Партнер нефть» где Вы сможете, не имея с собой денег заправить свой автомобиль через наше приложение после одобрения микрокредита с помощью уникального QR кода.",
+  "partners_use_time": "Вы сможете воспользоваться деньгами до {value} ",
+
+
+  "partners_list_page": "===========================PARTNERS LIST PAGE===========================",
+  "partners_select": "Выберите партнера",
+
+
+  "passport_scan_page": "===========================PASSPORT SCAN PAGE===========================",
+  "passport_scan_back": "Отсканируйте обратную часть документа",
+  "passport_scan_front": "Отсканируйте лицевую часть документа",
+  "passport_scan_camera_permission": "Для продолжения получения целевого кредита вам необходимо открыть доступ к вашей камере в настройках вашего телефона",
+  "passport_scan": "Сканирование документа",
+  "passport_scan_button_text": "Сделать фото",
+
+
+  "phone_number_page": "===========================PHONE NUMBER PAGE===========================",
+  "phone_number_personal_data": "Дать согласие на Сбор и обработку персональных данных",
+  "phone_number_privacy_policy": "Принять политику конфиденциальности",
+  "phone_number_subtitle_text": "Мы вышлем на ваш номер телефона 4-х значный код для подтвержения номера телефона",
+
+
+  "sms_code_page": "===========================SMS CODE PAGE===========================",
+  "sms_code_enter_code": "Введите 4-x значный SMS код",
+  "sms_code_check_phone_number": "Проверьте правильность ввода телефона и смс кода",
+  "sms_code_phone_number_error": "Неверный формат номера телефона",
+
+
+  "main_verification_page": "===========================MAIN VERIFICATION PAGE===========================",
+  "main_verification_pass_identification": "Прохождение идентификации",
+  "main_verification_pass_liveness": "Пройдите liveness верификацию, и сделайте снимок своего документа",
+
+
+  "profile_with_loan": "===========================PROFILE WITH LOAN PAGE===========================",
+  "profile_with_loan_repay_loan": "Погасить кредит",
+  "profile_with_loan_credit_rating": "Кредитный рейтинг",
+  "profile_with_loan_current_credit": "ДЕЙСТВУЮЩИЙ КРЕДИТ",
+  "loan_number": "Номер договора",
+
+
+  "splash_page": "===========================SPLASH PAGE===========================",
+  "client_not_found": "Клиент не найден",
+
+
+  "profile_page": "===========================PROFILE PAGE===========================",
+  "profile_page_private_data": "Личные данные",
+  "profile_page_full_name": "Фио",
+  "profile_page_phone_number": "Номер телефона",
+  "profile_page_email": "Электронная почта",
+  "profile_page_birthdate": "Дата рождения",
+  "profile_page_iin": "инн",
+  "profile_page_document_number": "№ ID карты",
+  "profile_page_expire_date": "Срок действия",
+  "profile_page_issued_whom": "Кем выдан документ",
+
+
+  "iscangetcreditpage": "=========================== IS CAN CLIENT GET CREDIT PAGE===========================",
+  "scan_document": "Отсканировать документ",
+  "invalid_document_or_error": "Добавленный документ не действителен или отсканирован с ошибкой",
+
+
+  "loan_history_page": "===========================LOAN HISTORY PAGE===========================",
+  "loan_history": "Кредитная история",
+
+
+  "selfie_document": "===========================SELFIE WITH DOCUMENT PAGE===========================",
+  "take_a_selfie_with_doc": "Сделайте селфи держа в руках вашу ID -карту,",
+  "selfie_with_doc_on_hand": "Селфи с документом в руках",
+
+
+  "credit_balance_widthdrawal_page": "===========================CREDIT BALANCE WIDTHDRAWAL PAGE===========================",
+  "select_operator": "Выберите ваш сотовый оператор ",
+  "credit_balance_sum": "Остаток суммы кредита",
+  "credit_balance_info_text": "Остаток суммы кредита вы сможете получить на электронный/мобильный кошелек, банковскую карту или баланс телефона",
+  "mobile_operator": "Сотовые операторы ",
+  "replenishment_of_cards": "Пополнение банковских карт",
+  "ewallet_mobile_banking": "Электронные кошельки и мобильный банкинг ",
+  "select_mobile_operator": "Выберите ваш сотовый оператор ",
+  "select_the_bank": "Выберите банк, картой которой Вы пользуетесь",
+  "type_bank_card_number": "Введите номер банковской карты",
+  "select_ewallet_or_mwallet": "Выберите электронный/мобильный кошелек",
+  "balance_successfully_transfered": "Остаток суммы успешно переведен",
+
+
+  "common_locale_text": "===========================COMMON LOCALES===========================",
+  "success": "Успешно!",
+  "await_for_credit": "Ожидайте поступления денежных средств от 10 минут до 3-х рабочих дней,",
+  "resend_code": "Отправить код повторно",
+  "we_have_sent": "Мы выслали на номер ",
+  "code_of_confirmation": "4x значный SMS код для подтверждение номера",
+  "request_code": "Запросить код повторно можно через {value} сек",
+  "further": "ДАЛЕЕ",
+  "get": "Получить",
+  "start": "Начать",
+  "error_processing_request": "Произошла ошибка при обработке запроса",
+  "error_please_try_again": "Произошла ошибка, попробуйте позже",
+  "date_of_repayment": "Дата погашения",
+  "commission_of_administration": "Комиссия за администрирование",
+  "sum_of_reward": "Сумма вознаграждения",
+  "sum_of_pay_of": "Сумма погашения",
+  "sum_of_loan": "Сумма кредита",
+  "terms_of_loan": "Срок кредита",
+  "making_decision": "Мы принимаем решение...",
+  "try_again": "Попробуйте еще раз",
+  "main_page": "Главная",
+  "back": "Назад",
+  "privacy_policy": "Политика конфиденциальности",
+  "terms_of_use": "Пользовательское соглашение",
+  "license": "Лицензия НБКР от «5» сентября 2022 г. за № 515",
+  "sign": "Подписать",
+  "profile": "Профиль",
+  "type_your_phone_number": "Введите свой номер телефона"
+}

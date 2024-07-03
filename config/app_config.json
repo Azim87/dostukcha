@@ -1,0 +1,5 @@
+{
+    "incrementAmount": 5,
+    "color": "red",
+    "secretKey": " this is a dev secret key"
+}
